@@ -1,0 +1,6 @@
+import { ContatosPage } from "./ContatosPage"
+import { DashboardPage } from "./DashboardPage"
+import { LoginPage } from "./LoginPage"
+import { NotFoundPage } from "./NotFoundPage"
+import { PerfilPage } from "./PerfilPage"
+import { RegisterPage } from "./RegisterPage"
